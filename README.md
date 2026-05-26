@@ -8,7 +8,7 @@
 ## What I Do
 
 - 📉 **Data Analytics** - Turning raw data into meaningful insights through cleaning, EDA, and visualization
-- 💻 **Full Stack Development** - Building functional, real-world web apps (discovered my love for it through vibe coding!)
+- 💻 **Full Stack Development** - Building functional, real-world web apps
 
 ## Tools & Technologies
 
